@@ -49,22 +49,22 @@ In the upload phase:
 
 NextS3Ops/
 ├── Deploy/
-│   ├── dist/               # Compiled code for deployment
-│   └── src/                # Source code for deployment
+│ ├── dist/ # Compiled code for deployment
+│ └── src/ # Source code for deployment
 ├── Upload/
-│   ├── dist/               # Compiled code for upload service
-│   └── src/                # Source code for upload service
+│ ├── dist/ # Compiled code for upload service
+│ └── src/ # Source code for upload service
 ├── RequestHandler/
-│   ├── dist/               # Compiled code for request handler
-│   └── src/                # Source code for request handler
+│ ├── dist/ # Compiled code for request handler
+│ └── src/ # Source code for request handler
 ├── frontend/
-│   └── next/               # Next.js frontend application
-├── public/                 # Public assets
-├── .env                    # Environment variables
-├── next.config.js          # Next.js configuration
-├── tsconfig.json           # TypeScript configuration
-├── package.json            # NPM scripts and dependencies
-└── README.md               # Project documentation
+│ └── next/ # Next.js frontend application
+├── public/ # Public assets
+├── .env # Environment variables
+├── next.config.js # Next.js configuration
+├── tsconfig.json # TypeScript configuration
+├── package.json # NPM scripts and dependencies
+└── README.md # Project documentation
 
-
+### [Built with Love](https://github.com/gitsofaryan)
 
