@@ -6,7 +6,7 @@
 
 ## Architecture
 
-![NextS3Ops Architecture](path/to/your/image.jpg)
+![NextS3Ops Architecture](image.jpg)
 
 In the upload phase:
 - Users provide a GitHub URL to the Upload Server.
